@@ -1,8 +1,12 @@
 # Amvent
 
-Amvent is a Pigment implementation partner helping businesses
-move to connected planning, from FP&A to sales, workforce and supply chain.
+**Transforming how businesses plan.**
 
-🌐 [amventconsulting.com](https://www.amventconsulting.com)
-✉️ [info@amventconsulting.com](mailto:info@amventconsulting.com)
-💼 [LinkedIn](https://www.linkedin.com/company/amventconsulting)
+Amvent is a Pigment implementation partner. We start with FP&A and
+expand into connected planning across the business: workforce,
+sales & RevOps, supply chain, consolidation and incentive comp.
+
+We also help teams move to Pigment from Anaplan, Adaptive and spreadsheets,
+with one team from kickoff through go-live and post go-live support.
+
+👉 [Let's talk](https://www.amventconsulting.com/contact-us)
